@@ -7,7 +7,7 @@ This project is a practical example for using sounds libarary inside flutter.
 The app looking like below:
 
 ![image](https://user-images.githubusercontent.com/61351498/182548326-4942adbb-3c94-44ed-a56d-013dd98eac0c.png)
-![image](https://user-images.githubusercontent.com/61351498/182549431-69e6f8da-4213-46c7-87c8-5966b58e9cdd.png)
+![image](https://user-images.githubusercontent.com/61351498/182549681-8413be61-f302-4749-8400-7334d8abac12.png)
 
 
 
